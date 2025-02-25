@@ -1,0 +1,32 @@
+# Ignore the virtual environment (myenv folder)
+myenv/
+
+# Ignore TensorFlow and XGBoost large files
+*.pyd
+*.dll
+
+# Ignore log files
+*.log
+
+# Ignore system files (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment configuration files
+.env
+
+"myenv/" 
+"*.pyd" 
+"*.dll" 
+"myenv/" 
+"*.pyd" 
+"*.dll" 

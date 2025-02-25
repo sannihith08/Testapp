@@ -1,0 +1,7 @@
+To Start the application follow step - 
+
+1. Copy line in terminal - myenv\Scripts\activate  ---- to activate the environment
+2. Then copy and paste line - streamlit run app.py ---- to run the app
+
+
+
