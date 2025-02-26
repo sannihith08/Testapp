@@ -18,7 +18,7 @@ MarkupSafe==3.0.2
 mdurl==0.1.2
 narwhals==1.25.2
 numpy==2.2.2
-packaging==24.2
+packaging==25.0.1
 pandas==2.2.3
 pillow==11.1.0
 protobuf==5.29.3
@@ -45,7 +45,6 @@ watchdog==6.0.0
 plotly==5.18.0
 yfinance
 scikit-learn
-plotly==5.16.1
 yfinance==0.2.54
 matplotlib==3.7.2
 tensorflow==2.13.0
