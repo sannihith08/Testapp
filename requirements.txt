@@ -44,3 +44,4 @@ urllib3==2.3.0
 watchdog==6.0.0
 plotly==5.18.0
 yfinance
+sklearn
