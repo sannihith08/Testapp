@@ -45,9 +45,6 @@ watchdog==6.0.0
 plotly==5.18.0
 yfinance
 scikit-learn
-streamlit==1.25.0
-numpy==1.24.3
-pandas==2.0.3
 plotly==5.16.1
 yfinance==0.2.54
 matplotlib==3.7.2
